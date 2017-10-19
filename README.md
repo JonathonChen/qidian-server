@@ -6,22 +6,7 @@
 
 ## 接口说明
 
-``` bash
-安装
-git clone git@github.com:tgxhx/node-crawler.git
-npm install
 
-运行
-node app.js
-
-默认端口为3333,若不想使用3333端口,可使用以下命令:
-
-Mac/Linux
-PORT=4000 node app.js
-
-windows 下使用 git-bash 或者 cmder 等终端执行以下命令:
-set PORT=4000 && node app.js
-```
 
 #### 书籍详情
 说明：调用此接口获取书籍详情
